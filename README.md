@@ -1,6 +1,3 @@
-ignore this! 
+## Hello world
 
-really do! 
-something is cooking :) 
-
-SPAAAM publicly 
+this is my demo repository
